@@ -7,11 +7,13 @@
 .image-container {
     display: flex;
     justify-content: center;
+    align-content: center;
     flex-wrap: wrap;
     background: #000;
     height: 100vh; /* Full viewport height */
     width: 100vw;
     gap: 2px;
+
      /* To allow multiple rows */
     
 }
@@ -36,13 +38,12 @@
 
 .des {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
     color: white;
-    padding: 0px;
-    background-color: rgba(0, 0, 0, 0.7); /* Adjusted background for better readability */
-    z-index: 2;
+    bottom: 0;
+    right:0;
+    left: 0;
+    padding: 1.5rem; 
+    z-index: 1;
 
 }
 
