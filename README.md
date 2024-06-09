@@ -11,7 +11,7 @@ This is an interractive Gallery project. It is accessible in different screens (
 
 For running this project in your computer you have to make sure that you installed an IDE, for examole VS code and follow the following steps.
 
-### 1. Clone this project to your local machine,
+### 1. Clone this project to your local machine, (https://github.com/Umutoni123/taskforce.git)
 ### 2. Make sure your are in the right directory,
 ### 3. Open the project in your prefered IDE ( VS Code),
 ### 4. Click on go live button to see the result in the browser,
